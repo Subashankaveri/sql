@@ -1,1 +1,1 @@
-INSERT INTO users (name, email) VALUES ('subashan', 'subashankaveri@example.com');
+INSERT INTO user2 (name, email) VALUES ('subashan', 'subashankaveri@example.com');
